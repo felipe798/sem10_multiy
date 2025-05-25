@@ -32,7 +32,6 @@ class MyApp extends StatelessWidget {
   }
 }
 
-// PÁGINA PRINCIPAL (COMO LA IMAGEN 1)
 class NetflixMainPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
